@@ -1,0 +1,24 @@
+ALTER TABLE categories ALTER COLUMN category_description TYPE varchar(256);
+
+DELETE from categories
+WHERE id =6;
+
+
+ALTER TABLE bank_transactions
+ALTER COLUMN bank_transaction_date TYPE TIMESTAMP;
+
+SELECT bt.bank_transaction_date, sum(bt.amount) FROM bank_transactions bt
+GROUP BY bt.bank_transaction_date
+
+SELECT bt.bank_transaction_date, c.category_name as category, sum(bt.amount) as amount
+FROM bank_transactions bt join categories c on bt.id_category=c.id
+where bt.bank_transaction_date >= '2020-12-01' and bt.bank_transaction_date <= '2020-12-31'
+GROUP BY bt.bank_transaction_date ,c.category_name
+ORDER BY bt.bank_transaction_date ASC
+
+SELECT  c.category_name as category, sum(bt.amount) as amount
+FROM bank_transactions bt join categories c on bt.id_category=c.id
+where bt.bank_transaction_date >= '2020-12-01' and bt.bank_transaction_date <= '2020-12-31'
+GROUP BY  c.category_name
+ORDER BY c.category_name ASC
+

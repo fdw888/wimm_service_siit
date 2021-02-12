@@ -1,0 +1,51 @@
+
+services:
+
+  elasticsearch:
+    image: elasticsearch:7.10.1
+    ports:
+      - 9200:9200
+      - 9300:9300
+    volumes:
+      - type: volume
+        source: esdata
+        target: /usr/share/elasticsearch/data
+    networks:
+      - wimmnet
+    environment:
+      discovery.type: single-node  
+    
+  kibana:
+    image: kibana:7.10.1
+    ports:
+      - 5601:5601
+    networks:
+      - wimmnet
+    depends_on:
+      - elasticsearch
+
+  postgres:
+    image: postgres:12
+    restart: always
+    ports:
+      - 5432:5432
+    volumes:
+      - type: volume
+        source: pgdata
+        target: /var/lib/postgresql/data
+    networks:
+      - wimmnet
+    environment:
+      POSTGRES_PASSWORD:
+      POSTGRES_USER: wimm
+      POSTGRES_DB: wimm
+
+networks:
+  wimmnet:
+    driver: bridge
+
+volumes:
+  esdata:
+    driver: local
+  pgdata:
+    driver: local

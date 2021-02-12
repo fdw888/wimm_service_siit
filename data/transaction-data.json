@@ -1,0 +1,8 @@
+{
+  "bankTransactionDateDTO":"2021-01-03T12:45:00Z",
+  "bankTransactionAmountDTO":"-300",
+  "bankTransactionTypeDTO":"DEBIT_NOTE",
+  "bankTransactionReferenceDTO":"A lot of text here",
+  "bankTransactionCategoryDTO":"FOOD",
+  "bankTransactionIbanDTO": "DE50 5001 0517 5432 4973 90"
+}

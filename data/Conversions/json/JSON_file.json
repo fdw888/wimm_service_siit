@@ -1,0 +1,239 @@
+[ {
+  "bankTransactionDate" : "2020-01-07",
+  "bankTransactionAmount" : 780,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Umzug Stu GmbH",
+  "bankTransactionCategory" : "Relocation",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-02",
+  "bankTransactionAmount" : 49.99,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Kartoons",
+  "bankTransactionCategory" : "Relocation",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-02",
+  "bankTransactionAmount" : 19.99,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Lidl",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-04",
+  "bankTransactionAmount" : 28.93,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "305-8785664-4584352 Amazon.de 7EGCP IHH11NTMUE3",
+  "bankTransactionCategory" : "Books",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-05",
+  "bankTransactionAmount" : 10,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "PP.5030.PP . LAPRIMULBEB, Ihr Einka uf bei LAPRIMULBEB",
+  "bankTransactionCategory" : "Donations",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-06",
+  "bankTransactionAmount" : 15.33,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Versicherungsnr. 415966148 Beitrag Zusatzversicherung",
+  "bankTransactionCategory" : "Insurrances",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-07",
+  "bankTransactionAmount" : 10,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "PP.5030.PP . AGENTGREEN, Ihr Einkau f bei AGENTGREEN",
+  "bankTransactionCategory" : "Donations",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-08",
+  "bankTransactionAmount" : 47.65,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ihr Einkauf bei Lidl",
+  "bankTransactionCategory" : "Deco",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-09",
+  "bankTransactionAmount" : 22.99,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "305-1872488-2637950 AMZN Mktp DE 17 U1G96OU66VXYCZ",
+  "bankTransactionCategory" : "Amazon",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-10",
+  "bankTransactionAmount" : 71.67,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "DANKE, IHR LIDL//Nuernberg/DE 2020- 11-27T08:53:42",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-11",
+  "bankTransactionAmount" : 25.22,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Amazon Windeln",
+  "bankTransactionCategory" : "Amazon",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-12",
+  "bankTransactionAmount" : 26.99,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "305-1491334-3503534 Amazon.de 1XDTX T2FSNB9V0QG",
+  "bankTransactionCategory" : "Amazon",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-13",
+  "bankTransactionAmount" : 50,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Regenjacke",
+  "bankTransactionCategory" : "fashion",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-14",
+  "bankTransactionAmount" : 31.52,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "REWE SAGT DANKE. 46400418//Nuernber g/DE",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-15",
+  "bankTransactionAmount" : 31,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "PP.5030.PP . CHOVIET, Ihr Einkauf b ei CHOVIET",
+  "bankTransactionCategory" : "Restaurant",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-16",
+  "bankTransactionAmount" : 23.48,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ihr Einkauf bei Lidl",
+  "bankTransactionCategory" : "Amazon",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-18",
+  "bankTransactionAmount" : 13.88,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "ROESTTROMMEL GMBH//NURNBERG/DE 2020 -12-13T12:51:02",
+  "bankTransactionCategory" : "Restaurant",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-19",
+  "bankTransactionAmount" : 64.71,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Waschbaer GmbH",
+  "bankTransactionCategory" : "Housing/Haushalt",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-20",
+  "bankTransactionAmount" : 97.1,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ueberweisung Zalando Payments GmbH",
+  "bankTransactionCategory" : "Fashion",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-21",
+  "bankTransactionAmount" : 46.28,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "DANKE, IHR LIDL//Nuernberg/DE 2020- 12-14T13:30:15",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-22",
+  "bankTransactionAmount" : 49.43,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "DM FIL.1401 H:65321//NUERNBERG/DE 2 020-12-15T18:12:39",
+  "bankTransactionCategory" : "Housing/Haushalt",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-23",
+  "bankTransactionAmount" : 34.36,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "REWE SAGT DANKE. 46653445//Winkelha id/DE",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-24",
+  "bankTransactionAmount" : 500,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Spar 1/2020 FDW",
+  "bankTransactionCategory" : "Savings",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-26",
+  "bankTransactionAmount" : 200,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Spar 12/2020 FDW",
+  "bankTransactionCategory" : "Housing/Haushalt",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-27",
+  "bankTransactionAmount" : 29.34,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Amazon Windeln",
+  "bankTransactionCategory" : "Housing/Haushalt",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-28",
+  "bankTransactionAmount" : 56.55,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ihr Einkauf bei Lidl 2020-01-21",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-29",
+  "bankTransactionAmount" : 16.44,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ihr Einkauf bei AldiSüd 2020-01-21",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-30",
+  "bankTransactionAmount" : 24.48,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ihr Einkauf bei Edeka 2020-01-21",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-25",
+  "bankTransactionAmount" : 80,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "DM FIL.1401 H:65321//NUERNBERG/DE 2 020-12-22T18:12:39",
+  "bankTransactionCategory" : "Housing/Haushalt",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-26",
+  "bankTransactionAmount" : 45,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ihr Einkauf bei Lidl",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-27",
+  "bankTransactionAmount" : 32,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "EBL Naturkost",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-28",
+  "bankTransactionAmount" : 62.89,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ihr Einkauf bei Lidl",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-29",
+  "bankTransactionAmount" : 42.99,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Getränkemarkt Franky",
+  "bankTransactionCategory" : "Food",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+}, {
+  "bankTransactionDate" : "2020-01-31",
+  "bankTransactionAmount" : 800.99,
+  "bankTransactionType" : "Credit_Note",
+  "bankTransactionReference" : "Ikea Fürth",
+  "bankTransactionCategory" : "Housing/Haushalt",
+  "bankTransactionIban" : "DE50 5001 0517 5432 4973 90"
+} ]

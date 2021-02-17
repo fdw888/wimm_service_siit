@@ -19,3 +19,9 @@ $ docker-compose up -d
 ```shell
 $ docker-compose down
 ```
+
+# Start spring boot app
+
+- mvn spring-boot:run in the project root folder
+
+

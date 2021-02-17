@@ -1,6 +1,6 @@
 # README
 
-## Install Docker for Desktop
+# Install Docker for Desktop
 
 ## Starting DEV environment
 

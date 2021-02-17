@@ -24,5 +24,8 @@ $ docker-compose down
 
 - mvn spring-boot:run in the project root folder
 
-# Open a Rest Client of your choice (Postman/Postwoman/ etc)
-# Check openapi documentation for the wimm service endpoints. http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/
+# REST Client 
+Open a Rest Client of your choice (Postman/Postwoman/ etc)
+
+# OpenAPI doc 
+Check openapi documentation for the wimm service endpoints. http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/

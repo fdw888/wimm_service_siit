@@ -1,5 +1,7 @@
 # README
 
+## Install Docker for Desktop
+
 ## Starting DEV environment
 
 - Elastisearch 7.10.1

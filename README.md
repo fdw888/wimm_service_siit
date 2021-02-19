@@ -29,3 +29,9 @@ Open a Rest Client of your choice (Postman/Postwoman/ etc)
 
 # OpenAPI doc 
 Check openapi documentation for the wimm service endpoints. http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/
+
+# Data preparation
+Send to the 
+​/api​/transactions endpoint request using JSON objects from the data/json/JSON_file.json 
+
+

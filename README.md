@@ -34,4 +34,6 @@ Check openapi documentation for the wimm service endpoints. http://localhost:808
 Send to the 
 ​/api​/transactions endpoint request using JSON objects from the data/json/JSON_file.json 
 
+# Visualize data in Kibana
+open Dashboard - Wimm dashboard in Kibana and visualize data
 

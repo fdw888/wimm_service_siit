@@ -82,5 +82,9 @@ public class BankTransactionRESTController {
         }
 
     }
+//// delete endpoint
+//    @DeleteMapping("/transactions")
+
+
 
 }
